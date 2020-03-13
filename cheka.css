@@ -1,0 +1,20 @@
+.step{background:transparent;
+position:absolute;
+top:40%;
+left:40%;
+bottom:30%;
+width:280px;
+}
+body{background:url(IMG_20190901_105902.jpg) no-repeat;background-size:cover;}
+.form-g{
+	
+	padding:10px 0px 0px 10px;
+}
+.step h3 {;background:white;
+position:absolute;
+left :70%;
+top:2%
+}
+.form-con{background-color:transparent}
+.float-right{float:right;}
+	a{text-decoration:none}
